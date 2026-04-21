@@ -1,6 +1,6 @@
 # Stelios Loukakos
 
-**Full-Stack Developer** · Informatics & Telecommunications
+**Full-Stack Developer** · Computer Science & Telecommunications
 
 - 🎓 21 y/o student in **Informatics & Telecommunications**
 - 🌍 Based in Athens, Greece
