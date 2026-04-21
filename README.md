@@ -17,7 +17,7 @@ I build full-stack web applications with a focus on clean architecture and great
 - 🎓 &nbsp;Informatics & Telecommunications, Athens
 - 🌱 &nbsp;Currently deepening: **TypeScript · PostgreSQL · System Design**
 - 🤝 &nbsp;Open to collaborations and interesting projects
-- 📬 &nbsp;stloukakos@gmail.com
+- 📬 &nbsp;stloukakos@yahoo.com
 
 <br/>
 
