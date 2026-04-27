@@ -14,7 +14,7 @@ I'm **Stelios**, a 21-year-old **Informatics & Telecommunications** student from
 
 I build full-stack web applications with a focus on clean architecture and great user experience — from pixel-perfect UIs to robust backend APIs.
 
-- 🎓 &nbsp;Informatics & Telecommunications, Athens
+- 🎓 &nbsp;Computer science & Telecommunications, Lamia
 - 🌱 &nbsp;Currently deepening: **TypeScript · PostgreSQL · System Design**
 - 🤝 &nbsp;Open to collaborations and interesting projects
 - 📬 &nbsp;stloukakos@yahoo.com
