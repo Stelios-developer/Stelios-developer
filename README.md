@@ -82,8 +82,10 @@ I build full-stack web applications with a focus on clean architecture and great
 [![Email](https://img.shields.io/badge/Email-stloukakos%40gmail.com-FFD700?style=flat-square&logo=gmail&logoColor=FFD700&labelColor=0d0d0d)](mailto:stloukakos@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Stelios--developer-FFD700?style=flat-square&logo=github&logoColor=FFD700&labelColor=0d0d0d)](https://github.com/Stelios-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stelios%20Loukakos-FFD700?style=flat-square&logo=linkedin&logoColor=FFD700&labelColor=0d0d0d)](www.linkedin.com/in/stelios-loukakos-9b52152b2)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FFD700?style=flat-square&logo=vercel&logoColor=FFD700&labelColor=0d0d0d)](https://steliosloukakos.com/)
 
-*LinkedIn & Portfolio — coming soon*
 
 </div>
 
