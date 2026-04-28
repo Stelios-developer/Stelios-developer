@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2a2000,100:FFD700&height=180&section=header&text=Stelios%20Loukakos&fontSize=48&fontColor=FFD700&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=60&descSize=18&descColor=c9a84c" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%E2%9C%A6;React+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Building+modern+web+applications;Always+learning%2C+always+improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%E2%9C%A6;React+%7C+Python+%7C+TypeScript+%7C+PostgreSQL;Building+modern+web+applications;Always+learning%2C+always+improving)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@ I'm **Stelios**, a 21-year-old **Informatics & Telecommunications** student from
 I build full-stack web applications with a focus on clean architecture and great user experience — from pixel-perfect UIs to robust backend APIs.
 
 - 🎓 &nbsp;Computer science & Telecommunications, Lamia
-- 🌱 &nbsp;Currently deepening: **TypeScript · PostgreSQL · System Design**
+- 🌱 &nbsp;Currently deepening: **TypeScript · Python · System Design**
 - 🤝 &nbsp;Open to collaborations and interesting projects
 - 📬 &nbsp;stloukakos@yahoo.com
 
