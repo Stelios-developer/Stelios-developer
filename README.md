@@ -36,6 +36,13 @@ I build full-stack web applications with a focus on clean architecture and great
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
 
+**AI & Data**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
 **Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -61,6 +68,7 @@ I build full-stack web applications with a focus on clean architecture and great
 | Project | Description | Stack |
 |---|---|---|
 | [🧾 AI Invoice Extraction System](https://github.com/Stelios-developer/Ai-Invoice-Extraction-System) | AI-powered invoice extraction with analytics dashboard, anomaly detection & Claude AI assistant | FastAPI · React · TypeScript · Docker |
+| [📊 Sales & Customer Analytics Platform](https://github.com/Stelios-developer/sales-customer-analytics-platform) | Full-stack sales analytics platform with ETL pipeline, XGBoost forecasting & Gaussian Mixture customer segmentation | FastAPI · React · TypeScript · PostgreSQL · XGBoost |
 | [💰 Vault Finance App](https://github.com/Stelios-developer/Vault-finance-app) | Full-stack finance manager — income, expenses & budgets | React · Node.js · MySQL |
 | [🥦 Nutrient.io](https://github.com/Stelios-developer/Nutrient-io) | Micronutrient tracker with science-backed personalized RDA targets for 30+ nutrients | TypeScript · React · PostgreSQL |
 | [📈 Stock Pulse](https://github.com/Stelios-developer/Stock-Pulse) | Real-time stock dashboard with live prices, charts, alerts & portfolio tracking | JavaScript · Tailwind · HTML |
