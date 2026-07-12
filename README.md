@@ -2,17 +2,15 @@
 
 <br/>
 
-<img src="https://steliosloukakos.com/logo-sl.png" width="72" height="72"/>
+<img src="https://steliosloukakos.com/logo-sl.png" width="88" height="88"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:C9A84C,100:C9A84C&height=90&text=STELIOS%20LOUKAKOS&fontSize=42&fontColor=C9A84C&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:C9A84C,100:C9A84C&height=30&text=AI%20ENGINEER%20%C2%B7%20ATHENS%2C%20GREECE&fontSize=13&fontColor=888888&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=STELIOS%20LOUKAKOS&fontSize=46&fontColor=C9A84C&fontAlignY=60&animation=fadeIn&desc=AI%20ENGINEER%20%C2%B7%20ATHENS%2C%20GREECE&descSize=13&descAlignY=85&descColor=888888" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1600&color=C9A84C&center=true&vCenter=true&width=560&lines=Building+LLM-powered+systems+%26+AI+integrations;Claude+API+%7C+OpenAI+%7C+PyTorch+%7C+FastAPI;RAG+Pipelines+%7C+Agent+Frameworks+%7C+Fine-tuning;Open+to+AI+%2F+ML+Engineering+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1600&color=C9A84C&center=true&vCenter=true&width=680&lines=Building+LLM-powered+systems+%26+AI+integrations;Claude+API+%7C+OpenAI+%7C+PyTorch+%7C+FastAPI;RAG+Pipelines+%7C+Agent+Frameworks+%7C+Fine-tuning;Open+to+AI+%2F+ML+Engineering+roles)](https://git.io/typing-svg)
 
 <br/>
 
