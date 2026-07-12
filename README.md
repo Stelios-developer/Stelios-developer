@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=STELIOS%20LOUKAKOS&fontSize=46&fontColor=C9A84C&fontAlignY=60&animation=fadeIn&desc=AI%20ENGINEER%20%C2%B7%20ATHENS%2C%20GREECE&descSize=13&descAlignY=85&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=STELIOS%20LOUKAKOS&fontSize=46&fontColor=C9A84C&fontAlignY=50&animation=fadeIn&desc=AI%20ENGINEER%20%C2%B7%20ATHENS%2C%20GREECE&descSize=13&descAlignY=78&descColor=888888" width="100%"/>
 
 <br/>
 
