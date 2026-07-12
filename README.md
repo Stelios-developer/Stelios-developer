@@ -1,114 +1,171 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2a2000,100:FFD700&height=180&section=header&text=Stelios%20Loukakos&fontSize=48&fontColor=FFD700&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=60&descSize=18&descColor=c9a84c" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%9C%A6;React+%7C+Python+%7C+TypeScript+%7C+FastAPI;Building+AI-powered+web+applications;Always+learning%2C+always+improving)](https://git.io/typing-svg)
+<br/>
+
+<img src="https://steliosloukakos.com/logo-sl.png" width="72" height="72"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:C9A84C,100:C9A84C&height=90&text=STELIOS%20LOUKAKOS&fontSize=42&fontColor=C9A84C&fontAlignY=60&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:C9A84C,100:C9A84C&height=30&text=AI%20ENGINEER%20%C2%B7%20ATHENS%2C%20GREECE&fontSize=13&fontColor=888888&fontAlignY=60" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1600&color=C9A84C&center=true&vCenter=true&width=560&lines=Building+LLM-powered+systems+%26+AI+integrations;Claude+API+%7C+OpenAI+%7C+PyTorch+%7C+FastAPI;RAG+Pipelines+%7C+Agent+Frameworks+%7C+Fine-tuning;Open+to+AI+%2F+ML+Engineering+roles)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Stelios-developer&color=c9a84c&style=flat-square&label=VIEWS)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/steliosloukakos.com-0d0d0d?style=flat-square&logo=vercel&logoColor=c9a84c)](https://steliosloukakos.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/stloukakos%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=c9a84c)](mailto:stloukakos@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=c9a84c)](https://www.linkedin.com/in/stelios-loukakos-9b52152b2)
+
 </div>
 
-<br/>
-
-## ✦ About Me
-
-I'm **Stelios**, a 21-year-old **Informatics & Telecommunications** student from **Athens, Greece**.
-
-I build full-stack web applications with a focus on clean architecture and great user experience — from pixel-perfect UIs to robust backend APIs, including AI-integrated systems.
-
-- 🎓 &nbsp;Computer Science & Telecommunications, Lamia
-- 🌱 &nbsp;Currently deepening: **TypeScript · Python · System Design · AI Integration**
-- 🤝 &nbsp;Open to collaborations and interesting projects
-- 📬 &nbsp;[stloukakos@gmail.com](mailto:stloukakos@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
 
 <br/>
 
-## ✦ Tech Stack
+```python
+stelios = {
+    "role"      : "AI Engineer",
+    "company"   : "Softbiz  —  fine-tuning · deep learning · PyTorch",
+    "education" : "Computer Science, University of Thessaly",
+    "focus"     : ["LLM Integration", "RAG Pipelines", "Document Intelligence"],
+    "building"  : "RAG system  ·  LangChain + ChromaDB + FastAPI",
+    "open_to"   : "AI / ML Engineering roles & collaborations",
+}
+```
 
-**Frontend**
+<br/>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
 
-**Backend**
+## &nbsp;◈ &nbsp;Stack
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+<div align="center">
 
-**AI & Data**
+<br/>
 
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=flat-square&logo=python&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,nodejs,postgres,docker,git&theme=dark&perline=9)](https://skillicons.dev)
+
+<br/>
+
+![Claude API](https://img.shields.io/badge/Claude%20API-E8651A?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 <br/>
-
-## ✦ Featured Project
-
-<a href="https://github.com/Stelios-developer/Ai-Invoice-Extraction-System">
-  <img src="https://raw.githubusercontent.com/Stelios-developer/Ai-Invoice-Extraction-System/main/docs/banner.svg" width="100%" alt="AI Invoice Extraction System"/>
-</a>
-
-> **[🧾 AI Invoice Extraction & Analytics System](https://github.com/Stelios-developer/Ai-Invoice-Extraction-System)** — Full-stack app that extracts structured data from PDF/CSV/image invoices and delivers a rich analytics dashboard with anomaly detection, cash flow forecasting, vendor concentration risk, invoice aging, and a Claude AI assistant for natural language queries. Built with FastAPI · React · TypeScript · SQLAlchemy · Docker.
-
-<br/>
-
-## ✦ Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🧾 AI Invoice Extraction System](https://github.com/Stelios-developer/Ai-Invoice-Extraction-System) | AI-powered invoice extraction with analytics dashboard, anomaly detection & Claude AI assistant | FastAPI · React · TypeScript · Docker |
-| [📊 Sales & Customer Analytics Platform](https://github.com/Stelios-developer/sales-customer-analytics-platform) | Full-stack sales analytics platform with ETL pipeline, XGBoost forecasting & Gaussian Mixture customer segmentation | FastAPI · React · TypeScript · PostgreSQL · XGBoost |
-| [💰 Vault Finance App](https://github.com/Stelios-developer/Vault-finance-app) | Full-stack finance manager — income, expenses & budgets | React · Node.js · MySQL |
-| [🥦 Nutrient.io](https://github.com/Stelios-developer/Nutrient-io) | Micronutrient tracker with science-backed personalized RDA targets for 30+ nutrients | TypeScript · React · PostgreSQL |
-| [📈 Stock Pulse](https://github.com/Stelios-developer/Stock-Pulse) | Real-time stock dashboard with live prices, charts, alerts & portfolio tracking | JavaScript · Tailwind · HTML |
-| [🤖 AI Code Explainer](https://github.com/Stelios-developer/AI-Code-Explainer) | Explains code snippets in plain English using AI | Python |
-| [📚 Book Scraper](https://github.com/Stelios-developer/Book-Scraper) | Web scraper for collecting and organizing book data | Python · HTML |
-
-<br/>
-
-## ✦ GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Stelios-developer&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&border_color=2a2a2a&hide_border=false&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stelios-developer&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FFD700&text_color=c9d1d9&border_color=2a2a2a&langs_count=6"/>
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Stelios-developer&theme=dark&background=0d0d0d&border=2a2a2a&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
+
+## &nbsp;◈ &nbsp;Work
+
 <br/>
 
-## ✦ Connect
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Stelios-developer/Ai-Invoice-Extraction-System">
+        <img src="https://steliosloukakos.com/screenshots/ai-invoice.webp" width="100%" alt="AI Invoice Extraction System"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Stelios-developer/Ai-Invoice-Extraction-System">
+        <b>🧾 AI Invoice Extraction System</b>
+      </a>
+      <br/>
+      <sub>Document intelligence pipeline — extracts structured fields from invoices using Claude API. Analytics dashboard with anomaly detection, cash flow forecasting & NL queries.</sub>
+      <br/><br/>
+      <sub><code>FastAPI</code> <code>Claude API</code> <code>React</code> <code>TypeScript</code> <code>Docker</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Stelios-developer/sales-customer-analytics-platform">
+        <img src="https://steliosloukakos.com/screenshots/sales-analytics.webp" width="100%" alt="Sales Analytics Platform"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Stelios-developer/sales-customer-analytics-platform">
+        <b>📊 Sales & Customer Analytics Platform</b>
+      </a>
+      <br/>
+      <sub>Full-stack analytics platform with ETL pipeline, XGBoost revenue forecasting & Gaussian Mixture customer segmentation.</sub>
+      <br/><br/>
+      <sub><code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>XGBoost</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Stelios-developer/Stock-Pulse">
+        <img src="https://steliosloukakos.com/screenshots/stock-pulse.webp" width="100%" alt="Stock Pulse"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Stelios-developer/Stock-Pulse">
+        <b>📈 Stock Pulse</b>
+      </a>
+      <br/>
+      <sub>Real-time stock dashboard with live prices, interactive charts, price alerts & portfolio tracking.</sub>
+      <br/><br/>
+      <sub><code>JavaScript</code> <code>Tailwind CSS</code> <code>Yahoo Finance API</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Stelios-developer/Nutrient-io">
+        <img src="https://steliosloukakos.com/screenshots/nutrient-io.webp" width="100%" alt="Nutrient.io"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Stelios-developer/Nutrient-io">
+        <b>🥦 Nutrient.io</b>
+      </a>
+      <br/>
+      <sub>Micronutrient tracker with science-backed personalized RDA targets for 30+ nutrients.</sub>
+      <br/><br/>
+      <sub><code>TypeScript</code> <code>React</code> <code>PostgreSQL</code></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
+
+## &nbsp;◈ &nbsp;Stats
+
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-stloukakos%40gmail.com-FFD700?style=flat-square&logo=gmail&logoColor=FFD700&labelColor=0d0d0d)](mailto:stloukakos@gmail.com)
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Stelios-developer&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=888&border_color=222&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false"/>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Stelios--developer-FFD700?style=flat-square&logo=github&logoColor=FFD700&labelColor=0d0d0d)](https://github.com/Stelios-developer)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stelios%20Loukakos-FFD700?style=flat-square&logo=linkedin&logoColor=FFD700&labelColor=0d0d0d)](https://www.linkedin.com/in/stelios-loukakos-9b52152b2)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FFD700?style=flat-square&logo=vercel&logoColor=FFD700&labelColor=0d0d0d)](https://steliosloukakos.com/)
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stelios-developer&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c9a84c&text_color=888&border_color=222&langs_count=6"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stelios-developer&theme=dark&background=0d0d0d&border=222&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=888&dates=555)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
+
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:2a2000,100:1a1a1a&height=120&section=footer" width="100%"/>
+<sub>
+<a href="https://steliosloukakos.com">steliosloukakos.com</a>
+&nbsp;·&nbsp;
+<a href="mailto:stloukakos@gmail.com">stloukakos@gmail.com</a>
+&nbsp;·&nbsp;
+Athens, Greece
+</sub>
 </div>
+
+<br/>
