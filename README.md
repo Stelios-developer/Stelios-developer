@@ -1,169 +1,108 @@
-<div align="center">
+<p align="center">
+  <a href="https://steliosloukakos.com"><img src="./assets/hero.png" width="100%" alt="Stelios Loukakos — AI Engineer and Full-Stack Developer in Athens, Greece. EVOLVE." /></a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://steliosloukakos.com"><img src="./assets/website.svg" height="36" alt="Website" /></a>
+  <a href="https://steliosloukakos.com/?page=projects"><img src="./assets/projects.svg" height="36" alt="Selected projects" /></a>
+  <a href="https://www.linkedin.com/in/stelios-loukakos-9b52152b2"><img src="./assets/linkedin.svg" height="36" alt="LinkedIn" /></a>
+  <a href="mailto:stloukakos@yahoo.com"><img src="./assets/email.svg" height="36" alt="Email Stelios" /></a>
+</p>
 
-<img src="https://steliosloukakos.com/logo-sl.png" width="88" height="88"/>
+<br />
 
-<br/><br/>
+## A little about me.
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=STELIOS%20LOUKAKOS&fontSize=46&fontColor=C9A84C&fontAlignY=50&animation=fadeIn&desc=AI%20ENGINEER%20%C2%B7%20ATHENS%2C%20GREECE&descSize=13&descAlignY=78&descColor=888888" width="100%"/>
+I’m Stelios, an AI Engineer and Computer Science & Telecommunications student at the **University of Thessaly**, based in **Athens, Greece**. I work across language-model integrations, data applications and the interfaces around them.
 
-<br/>
+I’m interested in the whole system: where the data comes from, how a model is used, and what the person using it actually needs.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1600&color=C9A84C&center=true&vCenter=true&width=680&lines=Building+LLM-powered+systems+%26+AI+integrations;Claude+API+%7C+OpenAI+%7C+PyTorch+%7C+FastAPI;RAG+Pipelines+%7C+Agent+Frameworks+%7C+Fine-tuning;Open+to+AI+%2F+ML+Engineering+roles)](https://git.io/typing-svg)
+### Experience & education
 
-<br/>
+**AI Engineer & Full-Stack Developer | Intern**<br />
+Softbiz, Greece · **Summer 2026 — completed**<br />
+Full-stack development, retrieval-augmented generation (RAG) and fine-tuning.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Stelios-developer&color=c9a84c&style=flat-square&label=VIEWS)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/steliosloukakos.com-0d0d0d?style=flat-square&logo=vercel&logoColor=c9a84c)](https://steliosloukakos.com)
-&nbsp;
-[![Email](https://img.shields.io/badge/stloukakos%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=c9a84c)](mailto:stloukakos@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=c9a84c)](https://www.linkedin.com/in/stelios-loukakos-9b52152b2)
+**BSc Computer Science & Telecommunications**<br />
+University of Thessaly · **2022 — present**
 
-</div>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
+## Things I’ve built.
 
-<br/>
+A closer look at my work.
 
-```python
-stelios = {
-    "role"      : "AI Engineer",
-    "company"   : "Softbiz  —  fine-tuning · deep learning · PyTorch",
-    "education" : "Computer Science, University of Thessaly",
-    "focus"     : ["LLM Integration", "RAG Pipelines", "Document Intelligence"],
-    "building"  : "RAG system  ·  LangChain + ChromaDB + FastAPI",
-    "open_to"   : "AI / ML Engineering roles & collaborations",
-}
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
-
-## &nbsp;◈ &nbsp;Stack
-
-<div align="center">
-
-<br/>
-
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,nodejs,postgres,docker,git&theme=dark&perline=9)](https://skillicons.dev)
-
-<br/>
-
-![Claude API](https://img.shields.io/badge/Claude%20API-E8651A?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-<br/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
-
-## &nbsp;◈ &nbsp;Work
-
-<br/>
-
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Stelios-developer/Ai-Invoice-Extraction-System">
-        <img src="https://steliosloukakos.com/screenshots/ai-invoice.webp" width="100%" alt="AI Invoice Extraction System"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Stelios-developer/Ai-Invoice-Extraction-System">
-        <b>🧾 AI Invoice Extraction System</b>
-      </a>
-      <br/>
-      <sub>Document intelligence pipeline — extracts structured fields from invoices using Claude API. Analytics dashboard with anomaly detection, cash flow forecasting & NL queries.</sub>
-      <br/><br/>
-      <sub><code>FastAPI</code> <code>Claude API</code> <code>React</code> <code>TypeScript</code> <code>Docker</code></sub>
+      <a href="https://github.com/Stelios-developer/Ai-Invoice-Extraction-System"><img src="./assets/projects/invoice.webp" width="100%" alt="AI Invoice Extraction — application screenshot" /></a>
+      <h3><a href="https://github.com/Stelios-developer/Ai-Invoice-Extraction-System">AI Invoice Extraction</a></h3>
+      <p>Turning PDF and CSV invoices into structured, queryable data.</p>
+      <p><sub>Python · FastAPI · PostgreSQL · pdfplumber</sub></p>
+      <a href="https://github.com/Stelios-developer/Ai-Invoice-Extraction-System">View source ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Stelios-developer/sales-customer-analytics-platform">
-        <img src="https://steliosloukakos.com/screenshots/sales-analytics.webp" width="100%" alt="Sales Analytics Platform"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Stelios-developer/sales-customer-analytics-platform">
-        <b>📊 Sales & Customer Analytics Platform</b>
-      </a>
-      <br/>
-      <sub>Full-stack analytics platform with ETL pipeline, XGBoost revenue forecasting & Gaussian Mixture customer segmentation.</sub>
-      <br/><br/>
-      <sub><code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>XGBoost</code></sub>
+      <a href="https://github.com/Stelios-developer/AI-Code-Explainer"><img src="./assets/projects/explainer.webp" width="100%" alt="AI Code Explainer — application screenshot" /></a>
+      <h3><a href="https://github.com/Stelios-developer/AI-Code-Explainer">AI Code Explainer</a></h3>
+      <p>A code editor with seven focused AI analysis actions.</p>
+      <p><sub>Next.js · TypeScript · Monaco · Anthropic</sub></p>
+      <a href="https://github.com/Stelios-developer/AI-Code-Explainer">View source ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Stelios-developer/Stock-Pulse">
-        <img src="https://steliosloukakos.com/screenshots/stock-pulse.webp" width="100%" alt="Stock Pulse"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Stelios-developer/Stock-Pulse">
-        <b>📈 Stock Pulse</b>
-      </a>
-      <br/>
-      <sub>Real-time stock dashboard with live prices, interactive charts, price alerts & portfolio tracking.</sub>
-      <br/><br/>
-      <sub><code>JavaScript</code> <code>Tailwind CSS</code> <code>Yahoo Finance API</code></sub>
+      <a href="https://github.com/Stelios-developer/sales-customer-analytics-platform"><img src="./assets/projects/analytics.webp" width="100%" alt="Sales &amp; Customer Analytics — application screenshot" /></a>
+      <h3><a href="https://github.com/Stelios-developer/sales-customer-analytics-platform">Sales &amp; Customer Analytics</a></h3>
+      <p>From sales CSVs to forecasting and customer segmentation.</p>
+      <p><sub>Python · FastAPI · XGBoost · React</sub></p>
+      <a href="https://github.com/Stelios-developer/sales-customer-analytics-platform">View source ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Stelios-developer/Nutrient-io">
-        <img src="https://steliosloukakos.com/screenshots/nutrient-io.webp" width="100%" alt="Nutrient.io"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Stelios-developer/Nutrient-io">
-        <b>🥦 Nutrient.io</b>
-      </a>
-      <br/>
-      <sub>Micronutrient tracker with science-backed personalized RDA targets for 30+ nutrients.</sub>
-      <br/><br/>
-      <sub><code>TypeScript</code> <code>React</code> <code>PostgreSQL</code></sub>
+      <a href="https://github.com/Stelios-developer/Stock-Pulse"><img src="./assets/projects/stock.webp" width="100%" alt="Stock Pulse — application screenshot" /></a>
+      <h3><a href="https://github.com/Stelios-developer/Stock-Pulse">Stock Pulse</a></h3>
+      <p>Market quotes, interactive charts and portfolio tracking.</p>
+      <p><sub>JavaScript · HTML · Tailwind CSS · Yahoo Finance</sub></p>
+      <a href="https://github.com/Stelios-developer/Stock-Pulse">View source ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Stelios-developer/Nutrient-io"><img src="./assets/projects/nutrient.webp" width="100%" alt="Nutrient.io — application screenshot" /></a>
+      <h3><a href="https://github.com/Stelios-developer/Nutrient-io">Nutrient.io</a></h3>
+      <p>Personalised micronutrient tracking for everyday use.</p>
+      <p><sub>Hono · TypeScript · MySQL · tRPC</sub></p>
+      <a href="https://github.com/Stelios-developer/Nutrient-io">View source ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Stelios-developer/Book-Scraper"><img src="./assets/projects/books.webp" width="100%" alt="BookScraper — application screenshot" /></a>
+      <h3><a href="https://github.com/Stelios-developer/Book-Scraper">BookScraper</a></h3>
+      <p>A scraping workflow with visible progress and clean exports.</p>
+      <p><sub>Python · Flask · BeautifulSoup4 · SSE</sub></p>
+      <a href="https://github.com/Stelios-developer/Book-Scraper">View source ↗</a>
     </td>
   </tr>
 </table>
 
-<br/>
+<p align="center"><a href="https://steliosloukakos.com/?page=projects">Explore the projects on my website ↗</a></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
+<br />
 
-## &nbsp;◈ &nbsp;Stats
+## Tools I work with.
 
-<br/>
+**Engineering**<br />
+`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `PostgreSQL` · `Docker`
 
-<div align="center">
+**AI & data**<br />
+`RAG` · `Fine-tuning` · `Claude API` · `pandas` · `scikit-learn` · `XGBoost`
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Stelios-developer&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=888&border_color=222&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false"/>
-&nbsp;
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stelios-developer&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c9a84c&text_color=888&border_color=222&langs_count=6"/>
+<br />
 
-<br/>
+## Let’s connect.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Stelios-developer&theme=dark&background=0d0d0d&border=222&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=888&dates=555)](https://git.io/streak-stats)
+For a project, an AI engineering opportunity or a conversation about working together:
 
-</div>
+**[stloukakos@yahoo.com](mailto:stloukakos@yahoo.com)** · [Contact form](https://steliosloukakos.com/?page=contact) · [LinkedIn](https://www.linkedin.com/in/stelios-loukakos-9b52152b2)
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A84C&height=1" width="100%"/>
-
-<br/>
-
-<div align="center">
-<sub>
-<a href="https://steliosloukakos.com">steliosloukakos.com</a>
-&nbsp;·&nbsp;
-<a href="mailto:stloukakos@gmail.com">stloukakos@gmail.com</a>
-&nbsp;·&nbsp;
-Athens, Greece
-</sub>
-</div>
-
-<br/>
+<p align="center"><sub>ATHENS, GREECE &nbsp; · &nbsp; <a href="https://steliosloukakos.com">STELIOSLOUKAKOS.COM ↗</a></sub></p>
